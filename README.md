@@ -1,3 +1,4 @@
 # About Me
-* Kenneth Khoo
+* KK
 * Teacher
+* Just starting!
